@@ -1,0 +1,14 @@
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\obj\Debug\net8.0\ParcialII_Marc_Schaub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\obj\Debug\net8.0\ParcialII_Marc_Schaub.AssemblyInfoInputs.cache
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\obj\Debug\net8.0\ParcialII_Marc_Schaub.AssemblyInfo.cs
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\obj\Debug\net8.0\ParcialII_Marc_Schaub.csproj.CoreCompileInputs.cache
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\bin\Debug\net8.0\ParcialII_Marc_Schaub.exe
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\bin\Debug\net8.0\ParcialII_Marc_Schaub.deps.json
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\bin\Debug\net8.0\ParcialII_Marc_Schaub.runtimeconfig.json
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\bin\Debug\net8.0\ParcialII_Marc_Schaub.dll
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\bin\Debug\net8.0\ParcialII_Marc_Schaub.pdb
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\obj\Debug\net8.0\ParcialII_Marc_Schaub.dll
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\obj\Debug\net8.0\refint\ParcialII_Marc_Schaub.dll
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\obj\Debug\net8.0\ParcialII_Marc_Schaub.pdb
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\obj\Debug\net8.0\ParcialII_Marc_Schaub.genruntimeconfig.cache
+C:\Users\marcs\Documents\ParcialII_Marc_Schaub\obj\Debug\net8.0\ref\ParcialII_Marc_Schaub.dll
